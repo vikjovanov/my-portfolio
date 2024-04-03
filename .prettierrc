@@ -1,0 +1,14 @@
+{
+  "semi": true,
+  "useTabs": false,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "requireConfig": false,
+  "proseWrap": "always",
+  "printWidth": 80,
+
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true
+}
